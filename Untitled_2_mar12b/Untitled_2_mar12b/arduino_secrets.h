@@ -1,0 +1,3 @@
+#define SECRET_SSID "Satyansh"
+#define SECRET_OPTIONAL_PASS "123789456"
+#define SECRET_DEVICE_KEY "f?kXSCQ03URm!W7Lp4NdkQnzs"
